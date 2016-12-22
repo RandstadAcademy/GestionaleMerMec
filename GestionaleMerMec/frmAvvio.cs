@@ -96,16 +96,19 @@ namespace GestionaleMerMec
             LayoutMdi(MdiLayout.ArrangeIcons);
         }
 
-        private void CloseAllToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            foreach (Form childForm in MdiChildren)
-            {
-                childForm.Close();
-            }
-        }
-
         private void redoToolStripMenuItem_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void tmsModificaCliente_Click(object sender, EventArgs e)
+        {
+
+            frmUpdateCustomer newMDIChild = new frmUpdateCustomer();
+
+            newMDIChild.MdiParent = this;
+
+            newMDIChild.Show();
 
         }
     }
