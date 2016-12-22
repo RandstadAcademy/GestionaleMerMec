@@ -1,0 +1,11 @@
+C:\Users\Giosef\Documents\Visual Studio 2013\Projects\GestionaleMerMec\GestionaleMerMec\bin\Debug\GestionaleMerMec.exe
+C:\Users\Giosef\Documents\Visual Studio 2013\Projects\GestionaleMerMec\GestionaleMerMec\bin\Debug\GestionaleMerMec.pdb
+C:\Users\Giosef\Documents\Visual Studio 2013\Projects\GestionaleMerMec\GestionaleMerMec\obj\Debug\GestionaleMerMec.csprojResolveAssemblyReference.cache
+C:\Users\Giosef\Documents\Visual Studio 2013\Projects\GestionaleMerMec\GestionaleMerMec\obj\Debug\GestionaleMerMec.frmAvvio.resources
+C:\Users\Giosef\Documents\Visual Studio 2013\Projects\GestionaleMerMec\GestionaleMerMec\obj\Debug\GestionaleMerMec.Properties.Resources.resources
+C:\Users\Giosef\Documents\Visual Studio 2013\Projects\GestionaleMerMec\GestionaleMerMec\obj\Debug\GestionaleMerMec.csproj.GenerateResource.Cache
+C:\Users\Giosef\Documents\Visual Studio 2013\Projects\GestionaleMerMec\GestionaleMerMec\obj\Debug\GestionaleMerMec.exe
+C:\Users\Giosef\Documents\Visual Studio 2013\Projects\GestionaleMerMec\GestionaleMerMec\obj\Debug\GestionaleMerMec.pdb
+C:\Users\Giosef\Documents\Visual Studio 2013\Projects\GestionaleMerMec\GestionaleMerMec\obj\Debug\GestionaleMerMec.frmNuovoCliente.resources
+C:\Users\Aula Randstad\Desktop\Nuova cartella\GestionaleMerMec\GestionaleMerMec\obj\Debug\GestionaleMerMec.exe
+C:\Users\Aula Randstad\Desktop\Nuova cartella\GestionaleMerMec\GestionaleMerMec\obj\Debug\GestionaleMerMec.pdb
